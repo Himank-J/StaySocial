@@ -16,6 +16,10 @@ app.use(cors());
 app.use('/posts', postRoutes);
 app.use("/user", userRouter);
 
+app.get('/',(req,res) => {
+  res.send("Hello to StaySocial API");
+})
+
 const CONNECTION_URL = 'mongodb+srv://Himank_jain:Himank_jain09@cluster0.zp75c.mongodb.net/myFirstDatabase?retryWrites=true&w=majority';
 const PORT = process.env.PORT|| 5000;
 
