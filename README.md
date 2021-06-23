@@ -43,6 +43,8 @@
 
 ![chat1-screenshot](githubimg/userlogin.png)
 
+![chat1-screenshot](githubimg/googleoauth.png)
+
 ![chat1-screenshot](githubimg/register.png)
 <br />
 <p align="justify">Are you tired of thinking of the right caption or the perfect filter for your photos? If you are, then StaySocial is here for you! StaySocial is the most simple and easy to use platform to share your stroies with the world. StaySocial is a social media application that promotes users to live in the moment and share a part of that moment with their friends and families in form of short stories that they create. So now no more worrying about the right picture, just StaySocial and share your life!</p>
